@@ -32,11 +32,3 @@ I am a researcher interested in:
 📄 [Download CV](files/cv.pdf)
 
 ---
-
-## Contact
-
-Feel free to reach out:
-
-- Email: your.email@example.com
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
