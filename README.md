@@ -3,20 +3,11 @@
 Utrecht University   
 w.fransen@students.uu.nl  
 
----
-
 ## About Me
 
 Master student with interests in algebraic geometry. I was a bachelor student in applied mathematics at Eindhoven University of technology. 
 
----
-
 ## Publications
 
----
-
-## [CV](CV.pdf)
-
----
-
-## Talks
+## Cv
+[link](./CV.pdf)
