@@ -2,7 +2,6 @@
 
 ![Profile Photo](images/profile.jpg)
 
-**Position:** Master Student  
 **Institution:** Utrecht University   
 **Email:** w.fransen@students.uu.nl  
 
@@ -10,7 +9,7 @@
 
 ## About Me
 
-Master student with interests in algebraic geometry.
+Master student with interests in algebraic geometry. I was a bachelor student in applied mathematics at Eindhoven University of technology. 
 
 ---
 
