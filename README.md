@@ -1,7 +1,3 @@
----
-layout: page
-title: Wouter Fransen
----
 # Wouter Fransen
 <img src="Pic.jpeg" alt="drawing" width="200"/>
 
