@@ -1,8 +1,8 @@
 # Wouter Fransen
-<img src="Pic.jpeg"  style="float: right;" alt="drawing" width="200"/>
+<img src="Pic.jpeg" alt="drawing" width="200"/>
 
-**Institution:** Utrecht University   
-**Email:** w.fransen@students.uu.nl  
+Utrecht University   
+w.fransen@students.uu.nl  
 
 ---
 
