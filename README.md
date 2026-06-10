@@ -16,8 +16,16 @@
 </table>
 
 ## Talks
+◦ (Apr 2026) [Intercity Geometry Seminmar](https://sites.google.com/view/lucagiove/home/intercity-seminar-on-matroids-and-hodge-conjecture): Matroids arising from families of Prym varieties
 
-## Publications
+◦ (Oct 2025) [Wallcrossing seminar](https://www.uu.nl/staff/TManopulo/Extra2): Basics of geometric invariant theory in moduli problems
+
+◦ (Feb 2024) [DutchCATS](https://dutchcats.github.io/): Grothendieck Topologies on the Categrory of Finite Probability Spaces
+
+◦ (Nov 2023) [CASA Day](https://casa.win.tue.nl/home/event/casa-day-7/): Models for Synthetic Calculus ([Pdf](./CV.pdf))
+
+◦ (2025-2026): Various talks in reading courses
+## Writings
 
 ## Cv
 [link](./CV.pdf)
