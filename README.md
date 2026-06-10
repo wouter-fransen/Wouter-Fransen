@@ -1,3 +1,4 @@
+## **Home** | [Random Things](./random.md)
 <table>
   <tr>
     <td valign="top" width="200">
