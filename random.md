@@ -1,5 +1,3 @@
-## 
-
 ## [Home](./README.md) | **Random Things**
 
 ### Wine
