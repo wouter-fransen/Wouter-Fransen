@@ -1,4 +1,7 @@
-# Wouter Fransen
+<head>
+  <title>Wouter Fransen</title>
+</head>
+
 ## **Home** | [Random Things](./random.md)
 <table>
   <tr>
