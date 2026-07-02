@@ -1,7 +1,6 @@
 ## [Home](./README.md) | **Random Things**
 
 ### Wine
-*You have not appreciated wine until you have tried making it yourself*\
 ◦ Winegrower of a small vineyard of ~1 hectare. Grape varieties consisting of mostly Chardonnay and Pinot Meunier. \
 ◦ WSET Level 2 Award in Wines
 
