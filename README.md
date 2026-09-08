@@ -12,7 +12,7 @@
       <strong>Utrecht University</strong><br>
       <a href="mailto:w.fransen@students.uu.nl">w.fransen@students.uu.nl</a>
       <h2>About Me</h2>
-      <p>PhD student of Martijn Kool with interests in enumerative geometry and related fields. Before this I was a master student at Utrecht University, with my master thesis titled "Matroidal Degenerations of Prym Varieties". Before that, I was a bachelor student in applied mathematics at Eindhoven University of Technology.</p>
+      <p>PhD student of [Martijn Kool](https://webspace.science.uu.nl/~kool0009/) with interests in enumerative geometry and related fields. Before this I was a master student at Utrecht University, with my master thesis titled "Matroidal Degenerations of Prym Varieties". Before that, I was a bachelor student in applied mathematics at Eindhoven University of Technology.</p>
       </p>
     </td>
   </tr>
