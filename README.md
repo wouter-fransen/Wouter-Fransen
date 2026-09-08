@@ -19,7 +19,6 @@
   "Matroidal Degenerations of Prym Varieties". Before that, I was a bachelor
   student in applied mathematics at Eindhoven University of Technology.
       </p>
-      </p>
     </td>
   </tr>
 </table>
