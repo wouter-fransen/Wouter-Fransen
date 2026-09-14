@@ -6,8 +6,10 @@
 
 ### Diving
 PADI Open Water Diver\
-Pictures: TBA
-
+◦ Ishigaki: \
+<img src="Divingwturtle.jpg" alt="drawing" width="200"/>
+<img src="Manta.jpg" alt="drawing" width="200"/>
+<img src="Ridge.jpg" alt="drawing" width="200"/>
 ### Powerlifting
 I am a  powerlifter competing in the IPF:<br>
     ◦ Weightclass: -83kg<br>
