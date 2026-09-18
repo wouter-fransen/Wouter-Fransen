@@ -8,7 +8,7 @@
 PADI Open Water Diver\
 ◦ Ishigaki: \
 <img src="Divingwturtle.jpg" alt="drawing" width="200"/>
-<img src="Manta.jpg" alt="drawing" width="200"/>
+<img src="manta.jpg" alt="drawing" width="200"/>
 <img src="Ridge.jpg" alt="drawing" width="200"/>
 ### Powerlifting
 I am a  powerlifter competing in the IPF:<br>
