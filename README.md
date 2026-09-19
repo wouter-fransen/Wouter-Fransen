@@ -10,7 +10,7 @@
     </td>
     <td valign="top">
       <strong>Utrecht University</strong><br>
-      <a href="mailto:w.fransen@students.uu.nl">w.fransen@students.uu.nl</a>
+      <a href="mailto:w.fransen@uu.nl">w.fransen@students.uu.nl</a>
       <h2>About Me</h2>
       <p>
   PhD student of <a href="https://webspace.science.uu.nl/~kool0009/">Martijn Kool</a>
