@@ -32,6 +32,8 @@ Supervisor: [Olivier de Gaay Fortman](https://olivierfortman.github.io/)
 [Grothendieck Topologies on the Category of Finite Probability Spaces](./Thesis_BTW_Wouter_Fransen.pdf)\
 Supervisor: [Jim Portegies](https://www.tue.nl/en/research/researchers/jim-portegies)
 ## Talks
+◦ (Sept 2026) [Summerschool: Jacobians, Pryms and degenerations](https://sites.google.com/view/tuebingen26/home): Matroidal degenerations of Prym varieties
+
 ◦ (Apr 2026) [Intercity Geometry Seminar](https://sites.google.com/view/lucagiove/home/intercity-seminar-on-matroids-and-hodge-conjecture): Matroids arising from families of Prym varieties
 
 ◦ (Oct 2025) [Wallcrossing seminar](https://www.uu.nl/staff/TManopulo/Extra2): Basics of geometric invariant theory in moduli problems
