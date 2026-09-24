@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td valign="top" width="200">
-      <img src="Pic.jpeg" alt="drawing" width="200"/>
+      <img src="Pic.jpg" alt="drawing" width="200"/>
     </td>
     <td valign="top">
       <strong>Utrecht University</strong><br>
