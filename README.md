@@ -22,6 +22,8 @@
     </td>
   </tr>
 </table>
+## Writings
+a◦
 
 ## Writings
 ◦ **Master's Thesis**\
