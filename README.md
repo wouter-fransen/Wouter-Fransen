@@ -2,7 +2,7 @@
   <title>Wouter Fransen</title>
 </head>
 
-## **Home** | [Random Things](./random.md) | [Donaldson Seminar](./seminar.md)
+## **Home** | [Random Things](./random.md)
 <table>
   <tr>
     <td valign="top" width="200">
