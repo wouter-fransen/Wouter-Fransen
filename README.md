@@ -35,6 +35,8 @@ Supervisor: [Jim Portegies](https://www.tue.nl/en/research/researchers/jim-porte
 ◦ (Nov 2026 - Jan 2027) [Donaldson Invariants Seminar](https://www.uu.nl/medewerkers/TManopulo/Extra3)\
 Organized with Tom Manopulo
 ## Talks
+◦ (Oct 2026) [Utrecht Geometry Centre Talk](https://www.uu.nl/en/events/wouter-fransen-utrecht-geometry-centre-talk): Matroids, abelian varieties and the integral Hodge conjecture
+
 ◦ (Sept 2026) [Summerschool: Jacobians, Pryms and degenerations](https://sites.google.com/view/tuebingen26/home): Matroidal degenerations of Prym varieties
 
 ◦ (Apr 2026) [Intercity Geometry Seminar](https://sites.google.com/view/lucagiove/home/intercity-seminar-on-matroids-and-hodge-conjecture): Matroids arising from families of Prym varieties
@@ -46,6 +48,6 @@ Organized with Tom Manopulo
 ◦ (Nov 2023) [CASA Day](https://casa.win.tue.nl/home/event/casa-day-7/): Models for Synthetic Calculus ([Pdf](./SyntheticCalc.pdf))
 
 ## Teaching
-◦ (2026) Introduction to topology\
-◦ (2027) Analysis 1\
-◦ (2027) Probability theory
+◦ (2026, Teaching Assistant) Introduction to topology\
+◦ (2027, Teaching Assistant) Analysis 1\
+◦ (2027, Teaching Assistant) Probability theory
