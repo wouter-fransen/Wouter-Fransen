@@ -22,8 +22,6 @@
     </td>
   </tr>
 </table>
-## Writings
-a◦
 
 ## Writings
 ◦ **Master's Thesis**\
@@ -33,6 +31,9 @@ Supervisor: [Olivier de Gaay Fortman](https://olivierfortman.github.io/)
 ◦ **Bachelor's Thesis**\
 [Grothendieck Topologies on the Category of Finite Probability Spaces](./Thesis_BTW_Wouter_Fransen.pdf)\
 Supervisor: [Jim Portegies](https://www.tue.nl/en/research/researchers/jim-portegies)
+## Organization
+◦ (Nov 2026 - Jan 2027) [Donaldson Invariants Seminar](https://www.uu.nl/medewerkers/TManopulo/Extra3)\
+Organized with Tom Manopulo
 ## Talks
 ◦ (Sept 2026) [Summerschool: Jacobians, Pryms and degenerations](https://sites.google.com/view/tuebingen26/home): Matroidal degenerations of Prym varieties
 
@@ -44,4 +45,7 @@ Supervisor: [Jim Portegies](https://www.tue.nl/en/research/researchers/jim-porte
 
 ◦ (Nov 2023) [CASA Day](https://casa.win.tue.nl/home/event/casa-day-7/): Models for Synthetic Calculus ([Pdf](./SyntheticCalc.pdf))
 
-◦ (2025-2026): Various talks in reading courses
+## Teaching
+◦ (2026) Introduction to topology\
+◦ (2027) Analysis 1\
+◦ (2027) Probability theory
