@@ -13,7 +13,7 @@
       <a href="mailto:w.fransen@uu.nl">w.fransen@uu.nl</a>
       <h2>About Me</h2>
       <p>
-  PhD student of <a href="https://webspace.science.uu.nl/~kool0009/">Martijn Kool</a>
+  Since September 2026 a PhD student of <a href="https://webspace.science.uu.nl/~kool0009/">Martijn Kool</a>
   with interests in enumerative geometry and related fields. Before this I was a
   master student at Utrecht University, with my master thesis titled
   "Matroidal Degenerations of Prym Varieties". Before that, I was a bachelor
